@@ -107,12 +107,12 @@ const RecruiterLogin = () => {
 
                         <div className='border px-4 py-2 flex items-center gap-2 rounded-full mt-5'>
                             <img src={assets.email_icon} alt="" />
-                            <input className='outline-none text-sm' onChange={e => setEmail(e.target.value)} value={email} type="email" placeholder='Email Id' required />
+                            <input className='outline-none text-sm' onChange={e => setEmail(e.target.value)} value={email} type="email" placeholder='Email Id (rb2005@gmail.com)' required />
                         </div>
 
                         <div className='border px-4 py-2 flex items-center gap-2 rounded-full mt-5'>
                             <img src={assets.lock_icon} alt="" />
-                            <input className='outline-none text-sm' onChange={e => setPassword(e.target.value)} value={password} type="password" placeholder='Password' required />
+                            <input className='outline-none text-sm' onChange={e => setPassword(e.target.value)} value={password} type="password" placeholder='Password (12345678)' required />
                         </div>
 
 
