@@ -1,6 +1,7 @@
 # 🚀 Insiderjobs - Full Stack Job Portal
 
-![Insiderjobs](./homelogin%20page.png)
+![homelogin page](https://github.com/user-attachments/assets/e87688b2-5f3b-410a-9be6-5b3e2d3cb8e7)
+
 
 **Insiderjobs** is a modern, full-featured **Job Portal Web App** built using the **MERN Stack** (MongoDB, Express, React, Node.js). It empowers **job seekers** to browse, search, and apply for jobs with ease, and enables **recruiters** to post openings, manage applications, and track applicants — all in one seamless experience.
 
@@ -27,7 +28,8 @@
 - 📄 **Upload Resume** to enhance your profile  
 - 📊 **Track Application Status** in real-time
 
-![Job Seeker Dashboard](./job%20seeker%20dashboard.png)
+![job seeker dashboard](https://github.com/user-attachments/assets/1cbf6e5c-7830-450f-91ff-b7ea06e5853e)
+
 
 ---
 
@@ -37,39 +39,15 @@
 - ✅ ❌ **Accept or Reject Applications**
 - 👁️ **View Uploaded Resumes**
 
-![Recruiter Dashboard](./recruiter%20dashboard.png)
+![recruiter dashboard](https://github.com/user-attachments/assets/d5643629-cb62-4438-b21e-fbeec1eaeac3)
+
 
 ---
 
 ### 📌 Application Tracker:
 Track all job applications, with statuses like _Pending_, _Accepted_, or _Rejected_.
 
-![Application Tracker](./tracking%20applied%20jobs.png)
-
----
-
-## 📷 More Screenshots
-
-<details>
-<summary>🔎 Job Listings Page</summary>
-
-![Job Listings](./job%20seeker%20dashboard.png)
-
-</details>
-
-<details>
-<summary>📁 Manage Job Posts (Recruiter)</summary>
-
-![Manage Jobs](./recruiter%20dashboard.png)
-
-</details>
-
-<details>
-<summary>📄 Track Job Applications</summary>
-
-![Track Applications](./tracking%20applied%20jobs.png)
-
-</details>
+![tracking applied jobs](https://github.com/user-attachments/assets/a040ec17-c654-4222-bb65-2b9349dbc990)
 
 ---
 
@@ -91,11 +69,7 @@ Deployed using **Vercel** for fast, global delivery.
 
 ---
 
-## 🙌 Acknowledgements
 
-This project was built as part of a hands-on MERN tutorial. Special thanks to the mentor for guiding through a real-world job portal architecture.
-
----
 
 ## 📌 Note
 
