@@ -5,7 +5,7 @@
 
 **Insiderjobs** is a modern, full-featured **Job Portal Web App** built using the **MERN Stack** (MongoDB, Express, React, Node.js). It empowers **job seekers** to browse, search, and apply for jobs with ease, and enables **recruiters** to post openings, manage applications, and track applicants — all in one seamless experience.
 
-🌐 **Live Demo**: [https://job-portal-rb-client.vercel.app/dashboard/manage-jobs](https://job-portal-rb-client.vercel.app/dashboard/manage-jobs)
+🌐 **Live Demo**: https://job-portal-rb-client.vercel.app/
 
 ---
 
@@ -55,7 +55,7 @@ Track all job applications, with statuses like _Pending_, _Accepted_, or _Reject
 
 Deployed using **Vercel** for fast, global delivery.
 
-▶️ **Live Demo**: [Insiderjobs Portal](https://job-portal-rb-client.vercel.app/dashboard/manage-jobs)
+▶️ **Live Demo**: https://job-portal-rb-client.vercel.app/
 
 ---
 
